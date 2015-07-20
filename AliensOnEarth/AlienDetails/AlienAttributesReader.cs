@@ -27,7 +27,7 @@ namespace AliensOnEarth.AlienDetails
             try
             {
                 //Path to the Xml file
-                XmlReader xmlReader = XmlReader.Create("C:/Users/Kasper/Documents/Visual Studio 2012/Projects/optimized/AliensOnEarth/AliensOnEarth/AlienAttributesList.xml");
+                XmlReader xmlReader = XmlReader.Create(@"C:/Users/Kasper/Documents/Visual Studio 2012/Projects/optimized/AliensOnEarth/AliensOnEarth-improved-/AliensOnEarth/AlienAttributesList.xml");
                 while (xmlReader.Read())
                 {
                     if ((xmlReader.NodeType == XmlNodeType.Element) && (xmlReader.Name == "alien") && (xmlReader.HasAttributes))
