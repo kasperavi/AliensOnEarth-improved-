@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- This is the place where you can add extra attributes without making any code changes to the appliation  -->
+<alien>
+  <alien attributes="Alien's Code Name"></alien>
+  <alien attributes="Alien's Home Planet"></alien>
+  <alien attributes="Alien's No of Antennas"></alien>
+  <alien attributes="Alien's Blood Color"></alien>
+  <alien attributes="Alien's No of Legs"></alien>
+  <alien attributes="Alien's No of Eyes"></alien>
+</alien>
