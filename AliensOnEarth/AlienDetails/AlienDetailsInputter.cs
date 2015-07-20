@@ -15,6 +15,8 @@ namespace AliensOnEarth.AlienDetails
         static SortedList alienInfo = new SortedList();
         public static void ReadAlienInput()
         {
+
+
             Console.WriteLine("Enter the Details of the Alien Below \n");
 
             foreach (string x in AlienAttributesReader.GetAttributeslist())
@@ -23,7 +25,8 @@ namespace AliensOnEarth.AlienDetails
                 alienInfo.Add(x, Console.ReadLine().ToUpper());
 
             }
-          
+
+
         }
 
         public static SortedList getAlienDetails()
