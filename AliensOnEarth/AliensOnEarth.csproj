@@ -47,6 +47,7 @@
     <Compile Include="AlienDetails\AlienDetailsDisplayer.cs" />
     <Compile Include="AlienDetails\AlienDetailsInputter.cs" />
     <Compile Include="AlienDetails\AlienAttributesReader.cs" />
+    <Compile Include="AlienDetails\XmlFilePathSetter.cs" />
     <Compile Include="AliensOnEarthMainExecuter.cs" />
     <Compile Include="ExportFiles\ExportToFOOBAR.cs" />
     <Compile Include="ExportFiles\ExportToPDF.cs" />
@@ -57,7 +58,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="AlienAttributesList.xml">
+    <Content Include="AlienDetails\AlienAttributesList.xml">
       <SubType>Designer</SubType>
     </Content>
   </ItemGroup>

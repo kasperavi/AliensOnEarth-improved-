@@ -10,4 +10,3 @@ C:\Users\Kasper\Documents\Visual Studio 2012\Projects\optimized\AliensOnEarth\Al
 C:\Users\Kasper\Documents\Visual Studio 2012\Projects\optimized\AliensOnEarth\AliensOnEarth-improved-\AliensOnEarth\bin\Debug\AliensOnEarth.pdb
 C:\Users\Kasper\Documents\Visual Studio 2012\Projects\optimized\AliensOnEarth\AliensOnEarth-improved-\AliensOnEarth\bin\Debug\itextsharp.dll
 C:\Users\Kasper\Documents\Visual Studio 2012\Projects\optimized\AliensOnEarth\AliensOnEarth-improved-\AliensOnEarth\bin\Debug\itextsharp.xml
-C:\Users\Kasper\Documents\Visual Studio 2012\Projects\optimized\AliensOnEarth\AliensOnEarth-improved-\AliensOnEarth\obj\Debug\AliensOnEarth.csprojResolveAssemblyReference.cache
