@@ -9,7 +9,7 @@ namespace AliensOnEarth.AlienDetails
     /*
    Author: Avinash
    Company:Multunus Software
-   This Class is used to read the attributes from the Xml File and store in a list.
+   This Class is used to read the attributes from the Xml File AlienAttributesList.xml and store in a list.
    */
     class AlienAttributesReader
     {
